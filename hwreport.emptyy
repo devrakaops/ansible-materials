@@ -1,0 +1,6 @@
+#some hardware report info of system
+INVENTORY_HOSTNAME= aa
+BIOS_VERSION= bb
+TOTAL_MEMORY= cc
+VDA_SIZE= dd
+VDB_SIZE= ee
